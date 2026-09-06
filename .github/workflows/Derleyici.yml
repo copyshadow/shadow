@@ -55,7 +55,7 @@
 
        - name: '@KekikAkademi ifadesini değiştir'
          run: |
-           sed -i 's/@copyshadow/@shadow/g' $GITHUB_WORKSPACE/builds/repo.json
+           sed -i 's/@copyshadow/g' $GITHUB_WORKSPACE/builds/repo.json
  
        - name: Derlemeleri Yükle
          run: |
