@@ -1,5 +1,5 @@
 # ☁️ CloudStream için Türkçe Eklentiler
 
 
-Kısakod: shadowcs3 (tinyurl)
+Kısakod: shadowcs3
 
